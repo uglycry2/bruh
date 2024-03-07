@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/folder/"
+            "destination": "/folder/embed.html"
         }
     ]
 }
